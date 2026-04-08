@@ -45,15 +45,12 @@ Flip the cards, find matching pairs, and try to finish with the least number of 
 👉 Download the game from here:  
 🔗 https://mbarklahnoud.itch.io/
 
+---
 ### Installation Steps:
 
 1. Download the ZIP file  
 2. Extract all files  
-3. Make sure:
-   - `images` folder is included  
-   - `best_score.txt` is in the same folder  
-4. Run:
-
+3. Run:
 
 ---
 
@@ -64,17 +61,19 @@ Flip the cards, find matching pairs, and try to finish with the least number of 
 
 ---
 
-## 📸 Screenshots
+## 📫 Contact Me
 
-(Add your game images here later)
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/mbark-lahnoud/  
-- 📸 Instagram: https://www.instagram.com/lhnoud_m_qlf/  
-- 📧 Email: lhnoudmbark6@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mbark-lahnoud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:lhnoudmbark6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.instagram.com/lhnoud_m_qlf/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
 
 ---
 
