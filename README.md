@@ -3,6 +3,15 @@
 Welcome to DEV102 MemoryGame - I hope you enjoy it 🚀
 
 ---
+## 🎮 Jouer en ligne
+
+<p align="center">
+  <a href="[https://TON_USERNAME.github.io/DEV102MemoryGame_Online/](https://mbark-lahnoud.github.io/DEV102MemoryGame_Online/)" target="_blank">
+    <img src="https://img.shields.io/badge/DEV102%20MemoryGame%20Online-CLICK%20TO%20PLAY-red?style=for-the-badge&logo=gamepad&logoColor=white">
+  </a>
+</p>
+
+---
 
 ## 🧠 About the Project
 
