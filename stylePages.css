@@ -319,6 +319,7 @@ p {
 
 .fade-section {
     opacity: 0;
+    text-decoration:none;
     transform: translateY(40px);
     animation: fadeInSection 1.5s ease forwards;
     animation-delay: 0.5s;
