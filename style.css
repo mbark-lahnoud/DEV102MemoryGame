@@ -139,32 +139,73 @@ p {
     animation-delay: 1s;
 }
 
-.download-btn {
-    background: linear-gradient(45deg, #ff0000, #ff4d4d);
-    text-decoration:none;
-    border: none;
-    margin-left:12px;
-    padding: 15px 40px;
-    font-size: 20px;
-    color: white;
-    border-radius: 15px;
-    cursor: pointer;
-    box-shadow: 0 0 15px red;
-    transition: all 0.3s ease;
-    animation: pulseBtn 2s infinite;
-}
-
-.download-btn:hover {
-    transform: scale(1.15);
-    box-shadow: 0 0 40px red, 0 0 70px #ff4d4d;
-    background: linear-gradient(45deg, #ff4d4d, #ff1a1a);
-}
-
+/* CONTENEUR */
 .buttons {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 18px;
     flex-wrap: wrap;
+}
+
+/* BOUTONS PRINCIPAUX */
+.download-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    background: linear-gradient(135deg, #e60000, #990000);
+    text-decoration: none;
+    border: none;
+
+    padding: 12px 26px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+
+    border-radius: 10px;
+    cursor: pointer;
+
+    transition: all 0.25s ease;
+}
+
+/* ICONES */
+.download-btn i {
+    font-size: 16px;
+    transition: transform 0.25s ease;
+}
+
+/* HOVER PRO */
+.download-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* PETIT EFFET SUR ICONE */
+.download-btn:hover i {
+    transform: translateX(3px);
+}
+
+/* CLICK EFFECT */
+.download-btn:active {
+    transform: scale(0.96);
+}
+
+/* BOUTON TEST (SECONDARY STYLE) */
+.test-btn {
+    background: transparent;
+    border: 2px solid #ff4d4d;
+    color: #ff4d4d;
+}
+
+/* HOVER TEST */
+.test-btn:hover {
+    background: #ff4d4d;
+    color: white;
+}
+
+/* OPTIONNEL : HOVER ICON TEST */
+.test-btn:hover i {
+    transform: translateX(3px);
 }
 .social-bar {
     width: 100%;
