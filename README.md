@@ -59,7 +59,7 @@ Flip the cards, find matching pairs, and try to finish with the least number of 
 
 1. Download the ZIP file  
 2. Extract all files  
-3. Run:
+3. Run 
 
 ---
 
