@@ -33,10 +33,11 @@ Flip the cards, find matching pairs, and try to finish with the least number of 
 
 ## 🖥️ Technologies Used
 
-- Python 🐍  
-- Tkinter (GUI)  
-- Pillow (Image processing)  
-- Random module  
+- 🐍 Python
+- 🖼️ Tkinter (GUI development)
+- 🧩 Pillow (Image processing)
+- 🎲 Random module (for randomness and logic handling)
+- 📁 OS module (file handling, directories, system interaction)
 
 ---
 
