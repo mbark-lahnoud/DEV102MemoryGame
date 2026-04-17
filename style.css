@@ -266,7 +266,7 @@ p {
 
 .image-gallery img {
     width: 250px;
-    height: 150px;
+    height: 250px;
     object-fit: cover;
     border-radius: 12px;
     box-shadow: 0 0 15px rgba(255,0,0,0.5);
