@@ -259,7 +259,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 25px; /* Ajout d'espace entre les images */
     margin: 50px auto;
     max-width: 900px;
 }
