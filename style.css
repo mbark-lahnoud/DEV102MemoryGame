@@ -274,8 +274,9 @@ p {
 }
 
 .image-gallery img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 30px #ff4d4d, 0 0 50px red;
+    transform: scale(1.04);
+    box-shadow: 0 0 10px #ff4d4d, 0 0 25px red;
+    cursor: pointer;
 }
 
 
