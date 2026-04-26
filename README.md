@@ -89,10 +89,12 @@ Flip the cards, find matching pairs, and try to finish with the least number of 
 
 ## 🚀 Future Improvements
 
-- Add more levels  
-- Add mobile version  
-- Save progress system  
-- Custom themes  
+- 🎯 Add more levels
+- 📱 Add mobile version
+- 💾 Save progress system
+- 🎨 Custom themes
+- 🔊 Sound effects & background music
+- 🏆 Achievement system (badges, rewards) 
 
 ---
 
