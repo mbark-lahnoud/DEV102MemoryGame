@@ -66,8 +66,10 @@ Flip the cards, find matching pairs, and try to finish with the least number of 
 
 ## 💻 System Requirements
 
-- Windows 7 or higher  
-- No installation needed  
+- 🖥️ Windows 7 or higher
+- ⚡ No installation needed
+- 💽 Lightweight (runs on low-end PCs)
+- 🎮 Keyboard or mouse support
 
 ---
 
